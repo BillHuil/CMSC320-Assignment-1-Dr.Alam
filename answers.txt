@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to the entertainment industry as for concert shows it can be used
+to track previous sales, demographics, and pricing to help artist maximize profit and make fans happy
+by picking the correct cities, venues, and dates
