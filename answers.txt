@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: It is key to software development. It allows for people to keep track of their progress through commits.
+It also allows for multiple people to work on a project at once.
