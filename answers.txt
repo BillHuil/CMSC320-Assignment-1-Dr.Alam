@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: Git allows for the tracking of sofware development when working on a team. It 
+provides the ability to easily look at changes and have multiple people working on
+the same project at once.
